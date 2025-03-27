@@ -217,7 +217,7 @@ button:hover {
 
     .container {
         padding: 0;
-        margin-bottom: 200px;
+        margin-bottom: 250px;
         flex-direction: column-reverse;
         align-items: center;
     }
